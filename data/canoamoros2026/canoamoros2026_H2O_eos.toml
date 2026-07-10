@@ -5,7 +5,7 @@ material = "water"
 formula = "H2O"
 phase = ["ice-Ih", "ice-II", "ice-III", "ice-V", "ice-VI", "ice-VII", "ice-VII*", "ice-X", "liquid", "gas", "supercritical", "superionic"]
 crystal = "superionic: fcc, bcc"  
-method = ["DFT-MD", "TF-MD", "analytical fit", "tabulated"]
+method = ["experimental","DFT-MD", "TF-MD"]
 
 [description]
 type = "tabulated" 
