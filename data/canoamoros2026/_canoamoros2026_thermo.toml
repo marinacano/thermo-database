@@ -4,7 +4,7 @@ unique_id = "canoamoros2026"
 material = "water"  
 formula = "H2O"  
 phase = ["ice-Ih", "ice-II", "ice-III", "ice-V", "ice-VI", "ice-VII", "ice-VII*", "ice-X", "liquid", "gas", "supercritical", "superionic"]
-crystal = "superionic: fcc, bcc"  
+crystal = "superionic: oxygen in fcc, bcc"  
 method = "
 	Region 1: Gibbs free energy fit to experimental data (with theoretical constraints at low T)
 	Region 2: Gibbs free energy fit to experimental data and statistically calculated vibrational energies
